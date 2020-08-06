@@ -38,7 +38,7 @@ public class WorldTestSuite {
                 .add(egyptPeople).add(algeriaPeople).add(sanEscobarPeople);
         asia.addCountry("China", chinaPeople);
         asia.addCountry("North Korea", northKoreaPeople);
-        asia.addCountry("South Korea",southKoreaPeople);
+        asia.addCountry("South Korea", southKoreaPeople);
         europe.addCountry("Poland", polandPeople);
         europe.addCountry("Czech Republic", czechRepublicPeople);
         europe.addCountry("Deutschland", deutschlandPeople);
